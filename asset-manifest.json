@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sama-ticketing-frontend/static/css/main.f2dc4082.chunk.css",
+    "main.js": "/sama-ticketing-frontend/static/js/main.f48c5632.chunk.js",
+    "main.js.map": "/sama-ticketing-frontend/static/js/main.f48c5632.chunk.js.map",
+    "runtime-main.js": "/sama-ticketing-frontend/static/js/runtime-main.a580f9cf.js",
+    "runtime-main.js.map": "/sama-ticketing-frontend/static/js/runtime-main.a580f9cf.js.map",
+    "static/css/2.09765660.chunk.css": "/sama-ticketing-frontend/static/css/2.09765660.chunk.css",
+    "static/js/2.3fce3604.chunk.js": "/sama-ticketing-frontend/static/js/2.3fce3604.chunk.js",
+    "static/js/2.3fce3604.chunk.js.map": "/sama-ticketing-frontend/static/js/2.3fce3604.chunk.js.map",
+    "static/js/3.a471f646.chunk.js": "/sama-ticketing-frontend/static/js/3.a471f646.chunk.js",
+    "static/js/3.a471f646.chunk.js.map": "/sama-ticketing-frontend/static/js/3.a471f646.chunk.js.map",
+    "index.html": "/sama-ticketing-frontend/index.html",
+    "static/css/2.09765660.chunk.css.map": "/sama-ticketing-frontend/static/css/2.09765660.chunk.css.map",
+    "static/css/main.f2dc4082.chunk.css.map": "/sama-ticketing-frontend/static/css/main.f2dc4082.chunk.css.map",
+    "static/js/2.3fce3604.chunk.js.LICENSE.txt": "/sama-ticketing-frontend/static/js/2.3fce3604.chunk.js.LICENSE.txt",
+    "static/media/Ansari.777a1f18.jpg": "/sama-ticketing-frontend/static/media/Ansari.777a1f18.jpg",
+    "static/media/Back_End.517db55d.png": "/sama-ticketing-frontend/static/media/Back_End.517db55d.png",
+    "static/media/Front_End.1983f720.jpg": "/sama-ticketing-frontend/static/media/Front_End.1983f720.jpg",
+    "static/media/index.css": "/sama-ticketing-frontend/static/media/IRANSansWeb.bbf8f452.ttf",
+    "static/media/Maghami.5bddbc30.jpg": "/sama-ticketing-frontend/static/media/Maghami.5bddbc30.jpg",
+    "static/media/chooselanguage.fdd54ce1.svg": "/sama-ticketing-frontend/static/media/chooselanguage.fdd54ce1.svg",
+    "static/media/email1.d475870d.png": "/sama-ticketing-frontend/static/media/email1.d475870d.png",
+    "static/media/english.4b3fcd55.svg": "/sama-ticketing-frontend/static/media/english.4b3fcd55.svg",
+    "static/media/forgot-password1.dcf852cf.png": "/sama-ticketing-frontend/static/media/forgot-password1.dcf852cf.png",
+    "static/media/header.css": "/sama-ticketing-frontend/static/media/header.9c1c4d08.png",
+    "static/media/persian.1bddc59c.svg": "/sama-ticketing-frontend/static/media/persian.1bddc59c.svg",
+    "static/media/register.ecb2ccc4.png": "/sama-ticketing-frontend/static/media/register.ecb2ccc4.png",
+    "static/media/sama.da83fe8f.svg": "/sama-ticketing-frontend/static/media/sama.da83fe8f.svg",
+    "static/media/sama_header.835ecc2b.svg": "/sama-ticketing-frontend/static/media/sama_header.835ecc2b.svg",
+    "static/media/sign-in.89cb507f.png": "/sama-ticketing-frontend/static/media/sign-in.89cb507f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a580f9cf.js",
+    "static/css/2.09765660.chunk.css",
+    "static/js/2.3fce3604.chunk.js",
+    "static/css/main.f2dc4082.chunk.css",
+    "static/js/main.f48c5632.chunk.js"
+  ]
+}
