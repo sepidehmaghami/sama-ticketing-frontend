@@ -1,0 +1,321 @@
+.arashweb {
+    padding-top: 20px;
+}
+
+.ant-layout-content {
+    background-color: white !important;
+}
+
+.ant-input-prefix {
+    margin-left: 4px !important;
+}
+
+.goal_context {
+    color: #2a2a2a;
+    margin-top: 0px;
+}
+
+.white {
+    color: white;
+}
+
+.layout {
+    background-color: white !important;
+}
+
+.card-center {
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+.language-left {
+    text-align: left;
+}
+
+.language-margin {
+    margin: 5px 10px 0px 0px;
+}
+
+.programmer_info {
+    color: #2c57e2;
+}
+
+.programmers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ProgrammingLanguages {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 100px !important;
+    height: 100px !important;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    margin-bottom: 20px;
+}
+
+.or {
+    display: block;
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px solid #dee3e4;
+    position: relative;
+    margin: 25px 0;
+}
+
+.or:before {
+    width: 40px;
+    height: 18px;
+    position: absolute;
+    top: -5px;
+    right: calc(50% - 20px);
+    background-color: #fff;
+    text-align: center;
+    line-height: 10px;
+    color: #555;
+}
+
+.center {
+    padding-top: 15px 0px 30px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0px 5px 10px #3fa7d6;
+}
+
+.title {
+    color: #829ffc;
+    font-weight: bold;
+}
+
+.custom-btn,
+.contact-btn {
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 45px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow: linear-gradient(to right, #242f40, #057af0, #3498db);
+    outline: none;
+}
+
+.contact-btn:hover {
+    color: white !important;
+}
+
+.btn,
+.button-contact {
+    background: linear-gradient(to right, #242f40, #030d9e, #3498db);
+    line-height: 42px;
+    padding: 0;
+    border: none;
+}
+
+.btn span,
+.button-contact span {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0px 20px;
+}
+
+.btn:before,
+.btn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    bottom: 0;
+    background: #05299e;
+    box-shadow: linear-gradient(to right, #057af0, #3498db);
+    transition: all 0.3s ease;
+}
+
+.button-contact:before,
+.button-contact:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    bottom: 0;
+    background: white;
+    box-shadow: white;
+    transition: all 0.3s ease;
+}
+
+.btn:before,
+.button-contact:before {
+    height: 0%;
+    width: 2px;
+}
+
+.btn:after,
+.button-contact:after {
+    width: 0%;
+    height: 2px;
+}
+
+.btn:hover,
+.button-contact:hover {
+    color: #05299e;
+    background: transparent;
+}
+
+.btn:hover:before,
+.button-contact:hover:before {
+    height: 100%;
+}
+
+.btn:hover:after,
+.button-contact:hover:after {
+    width: 100%;
+}
+
+.btn span:before,
+.btn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    background: #05299e;
+    box-shadow: linear-gradient(to right, #030d9e, #0328a1);
+    transition: all 0.3s ease;
+}
+
+.button-contact span:before,
+.button-contact span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    background: white;
+    box-shadow: white;
+    transition: all 0.3s ease;
+}
+
+.btn span:before,
+.button-contact span:before {
+    width: 2px;
+    height: 0%;
+}
+
+.btn span:after,
+.button-contact span:after {
+    height: 2px;
+    width: 0%;
+}
+
+.btn span:hover:before,
+.button-contact span:hover:before {
+    height: 100%;
+}
+
+.button-contact span:hover:after,
+.btn span:hover:after {
+    width: 100%;
+}
+
+.TA {
+    text-align: left;
+}
+
+.TA-fa {
+    text-align: right;
+}
+
+.goal_context-fa,
+.goal_context {
+    text-align: center;
+}
+
+.goal-fa,
+.goal {
+    padding-top: 140px;
+    text-align: center;
+    color: #05299e;
+}
+
+.performance,
+.performance-fa {
+    color: #05299e !important;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.overview-fa,
+.overview {
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+.programmers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.programmers-fa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-margin {
+    direction: "ltr";
+    margin-right: 5px;
+    text-align: left;
+}
+
+.info-margin-fa {
+    direction: "rtl";
+    margin-left: 5px;
+    text-align: right;
+}
+
+.App-label {
+    color: rgba(45, 63, 94, 0.5);
+}
+
+.ant-modal-footer {
+    text-align: center !important;
+}
+
+.icon-field {
+    direction: ltr !important;
+    margin-right: 5px;
+}
+
+.icon-field-fa {
+    direction: rtl !important;
+    margin-left: 5px;
+}
+
+.guide__content-first {
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.guide__content-first>* {
+    color: #fff !important;
+    z-index: 1;
+    position: relative;
+}

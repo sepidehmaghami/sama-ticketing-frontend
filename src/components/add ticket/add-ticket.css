@@ -1,0 +1,159 @@
+.ant-modal-title {
+    text-align: center;
+}
+
+.type-priority-mr {
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+.align-text {
+    font-weight: bold;
+}
+
+.ant-radio-checked .ant-radio-inner {
+    border-color: #05299e !important;
+}
+
+.ant-radio-inner::after {
+    background-color: #05299e !important;
+}
+
+.b-border {
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(218, 214, 214);
+}
+
+.jodit-toolbar-editor-collection .jodit-toolbar-button {
+    display: grid;
+}
+
+.jodit-workplace {
+    min-height: 114px !important;
+}
+
+.type-priority {
+    direction: ltr;
+    display: flex;
+    font-size: 15px !important;
+    padding: 20px 0px;
+}
+
+.type-priority-fa {
+    direction: rtl !important;
+    display: flex;
+    font-size: 15px !important;
+    padding: 20px 20px;
+}
+
+.type-priority-mr {
+    direction: ltr;
+    display: flex;
+    margin-right: 20px !important;
+    margin-bottom: 15px;
+}
+
+.type-priority-mr-fa {
+    direction: rtl !important;
+    display: flex;
+    margin-right: 20px !important;
+    margin-bottom: 15px;
+}
+
+.m-r {
+    direction: ltr;
+    display: flex;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(218, 214, 214);
+}
+
+.m-r-fa {
+    direction: rtl !important;
+    display: flex;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgb(218, 214, 214);
+}
+
+.description {
+    direction: ltr;
+    text-align: left;
+}
+
+.description-fa {
+    direction: rtl !important;
+    text-align: right;
+    margin-right: 20px;
+}
+
+.subject {
+    direction: ltr;
+    text-align: left;
+}
+
+.subject-fa {
+    direction: rtl !important;
+    text-align: right;
+}
+
+.add {
+    direction: ltr;
+    text-align: center;
+}
+
+.add-fa {
+    direction: rtl !important;
+    text-align: center;
+}
+
+.cancel-btn {
+    direction: let;
+    border: none !important;
+    background-color: white !important;
+    border: 1px solid #05299e !important;
+    color: #05299e !important;
+}
+
+.cancel-btn-fa {
+    direction: rtl !important;
+    border: none !important;
+    background-color: white !important;
+    border: 1px solid #05299e !important;
+    color: #05299e !important;
+}
+
+.add-btn {
+    direction: ltr;
+    background-color: white !important;
+    border: 1px solid #05299e !important;
+    color: #05299e !important;
+}
+
+.add-btn-fa {
+    direction: rtl !important;
+    background-color: white !important;
+    border: 1px solid #05299e !important;
+    color: #05299e !important;
+}
+
+.inline {
+    display: flex;
+}
+
+.inline-fa {
+    display: flex;
+    direction: rtl;
+}
+
+.label {
+    direction: ltr;
+    text-align: center;
+    margin-right: 22px;
+    width: 9%;
+}
+
+.label-fa {
+    direction: rtl !important;
+    text-align: center;
+    margin-left: 0px;
+    width: 20%;
+}

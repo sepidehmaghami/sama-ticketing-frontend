@@ -1,0 +1,27 @@
+.card-mail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site-result-demo-error-icon {
+    color: red;
+}
+
+.email {
+    width: 500px;
+    padding-left: 0px;
+}
+
+.notif {
+    padding-top: 3%;
+    color: rgb(22, 194, 6);
+}
+
+.successfully {
+    color: rgb(16, 156, 63);
+}
+
+.App-label {
+    color: rgba(45, 63, 94, 0.5);
+}

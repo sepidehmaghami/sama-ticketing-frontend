@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+.clock-rtl {
+    color: white;
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    direction: ltr;
+}
+
+.clock-ltr {
+    color: white;
+    padding-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.date {
+    color: rgb(173, 236, 238);
+    font-size: 13px;
+    font-weight: 450;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 5px;
+    margin-top: 7px;
+    font-family: 'Rock Salt';
+}
+
+.none {
+    display: none;
+}

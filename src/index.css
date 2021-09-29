@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "PersianNumber";
+    src: url('utilies/font/IRANSansWeb.ttf')
+}
+
+.PersianNo {
+    font-family: "PersianNumber";
+    font-size: 15px;
+}
+
+.persianNo {
+    font-family: "PersianNumber";
+    font-size: 12px;
+}
+
+body {
+    margin: 0;
+    font-family: "PersianNumber";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

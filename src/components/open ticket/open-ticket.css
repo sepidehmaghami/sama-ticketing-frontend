@@ -1,0 +1,161 @@
+.p-align {
+    text-align: left !important;
+}
+
+.color-name {
+    color: #1984e7;
+}
+
+.font-span {
+    font-size: 13px;
+    color: gray;
+}
+
+.ant-drawer-header,
+.ant-drawer-body {
+    border-bottom: 1px solid rgb(84, 86, 236);
+}
+
+.btn-drwer {
+    background-color: white !important;
+    border: 1px solid #05299e !important;
+    color: #05299e !important;
+}
+
+.btn-cancel {
+    border: none !important;
+}
+
+.align-text {
+    text-align: left;
+    font-weight: bold;
+}
+
+.b-color {
+    background-color: gray !important;
+}
+
+.ant-drawer-body {
+    padding-bottom: 10px !important;
+    padding-top: 0px !important;
+}
+
+.ant-comment.active {
+    background-color: rgba(250, 22, 6, 0.1);
+    padding: 0 10px;
+    border-bottom: 2px solid rgb(209, 203, 203);
+}
+
+.ant-comment.inactive {
+    background-color: rgba(6, 230, 55, 0.1);
+    padding: 0 10px;
+    border-bottom: 2px solid rgb(209, 203, 203);
+}
+
+.icon-back {
+    margin: 1px 20px 0px 5px;
+}
+
+.ant-drawer-close {
+    display: none !important;
+}
+
+.ant-comment-content-author {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ticket-id {
+    color: #999;
+    font-size: 14px;
+}
+
+.openTicket__subject {
+    display: block;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.ant-tag-yellow {
+    color: white !important;
+    background-color: #fca311 !important;
+    border-color: #fca311 !important;
+}
+
+.ant-tag-purple {
+    color: white !important;
+    background-color: #5c0099 !important;
+    border-color: #5c0099 !important;
+}
+
+.ant-tag-blue {
+    color: white !important;
+    background-color: #05299e !important;
+    border-color: #05299e !important;
+}
+
+.ant-tag-red {
+    color: white !important;
+    background-color: #d00000 !important;
+    border-color: #ca0505 !important;
+}
+
+.ant-tag-green {
+    color: white !important;
+    background-color: #0ead69 !important;
+    border-color: #0ead69 !important;
+}
+
+.ant-tag-blue:hover {
+    color: #ffffff;
+    background: #05299e;
+    border-color: #05299e;
+}
+
+.header_open_ticket {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pending {
+    margin-right: 15px;
+}
+
+.text_align_left {
+    text-align: left !important;
+}
+
+.comment {
+    text-align-last: left !important;
+    margin-right: 5px;
+}
+
+.comment-fa {
+    text-align-last: right !important;
+}
+
+.req {
+    display: flex;
+}
+
+.req-fa {
+    direction: rtl;
+}
+
+.table tr,
+.table td {
+    border: 1px solid black;
+}
+
+@media screen and (max-width: 767px) {
+    .ant-drawer-content-wrapper {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-height: 450px) {
+    .ant-drawer-body {
+        overflow: unset !important;
+    }
+}

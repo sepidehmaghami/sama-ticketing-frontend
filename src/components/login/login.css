@@ -1,0 +1,263 @@
+.rtl-login__layout {
+    direction: rtl;
+}
+
+.ltr-login__layout {
+    direction: ltr;
+}
+
+.ant-input-prefix {
+    margin-left: 4px !important;
+}
+
+.item_center {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.grayscale {
+    position: relative;
+    width: 100%;
+}
+
+.para {
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 0px 80px;
+}
+
+.para span {
+    color: #000;
+    padding: 10px;
+    width: 80%;
+}
+
+.imglogo {
+    width: 80px !important;
+    height: 80px !important;
+    margin-bottom: -15px;
+}
+
+.login-form-button {
+    border: rgb(13, 0, 128) !important;
+    background-color: rgb(13, 0, 128) !important;
+    color: #fff !important;
+    width: 100%;
+}
+
+.ant-checkbox-inner {
+    border: 1px solid rgb(13, 0, 128) !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+    background-color: rgb(13, 0, 128) !important;
+}
+
+.p-size {
+    margin-top: 10px;
+    font-size: 25px;
+    color: #3867d6;
+}
+
+.rtl-remember {
+    margin-right: 0px !important;
+}
+
+.ltr-remember {
+    color: #000;
+}
+
+.rtl-forgot {
+    color: black !important;
+    text-decoration: none !important;
+    margin-right: 210px;
+}
+
+.ltr-forgot {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.a-style {
+    color: blue !important;
+    text-decoration: underline !important;
+}
+
+.ant-form {
+    width: 60%;
+}
+
+.ant-input-size {
+    width: 430px;
+}
+
+.submit-login {
+    width: 430px !important;
+}
+
+.width-style {
+    width: 430px;
+    margin-bottom: 25%;
+}
+
+.ant-form label {
+    margin-right: 45%;
+}
+
+.botoom-border {
+    text-align-last: center;
+}
+
+.login__right-image {
+    min-height: 100vh !important;
+}
+
+.login__right-image>div {
+    height: 100%;
+}
+
+.login__right-image img {
+    height: 100vh;
+}
+
+@media screen and (max-width:930px) {
+    .ant-input-size {
+        width: 350px !important;
+    }
+    .submit-login {
+        width: 350px !important;
+    }
+    .width-style {
+        width: 348px;
+    }
+    .ant-form label {
+        margin-right: 35%;
+    }
+    .rtl-forgot {
+        color: black !important;
+        text-decoration: none !important;
+        margin-right: 130px;
+    }
+}
+
+@media screen and (max-width:735px) {
+    .ant-input-size {
+        width: 300px !important;
+    }
+    .submit-login {
+        width: 300px !important;
+    }
+    .width-style {
+        width: 300px;
+    }
+    .ant-form label {
+        margin-right: 24%;
+    }
+    .rtl-forgot {
+        color: black !important;
+        text-decoration: none !important;
+        margin-right: 80px;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .ant-input-size {
+        width: 250px !important;
+    }
+    .submit-login {
+        width: 250px !important;
+    }
+    .width-style {
+        width: 250px;
+    }
+    .ant-form label {
+        margin-right: 9%;
+    }
+    .rtl-forgot {
+        color: black !important;
+        text-decoration: none !important;
+        margin-right: 30px;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .ant-input-size {
+        width: 230px !important;
+    }
+    .submit-login {
+        width: 230px !important;
+    }
+    .width-style {
+        width: 230px;
+    }
+    .ant-form label {
+        margin-right: 1.5%;
+    }
+    .ant-form-item {
+        margin-bottom: 17px !important;
+    }
+    .rtl-forgot {
+        color: black !important;
+        text-decoration: none !important;
+        margin-right: 10px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .ant-col-12 {
+        flex: 0 0 100% !important;
+        max-width: 100% !important;
+    }
+    body {
+        position: relative;
+        z-index: 2;
+    }
+    .grayscale {
+        position: absolute !important;
+        bottom: 0;
+        opacity: 0.1;
+        z-index: 0;
+    }
+    .item_center {
+        position: relative;
+        z-index: 5;
+    }
+    .width-style {
+        margin-bottom: 4%;
+    }
+    .para {
+        position: relative;
+        padding: 0px 17px;
+    }
+    .botoom-border {
+        padding-bottom: 25px!important;
+        border-bottom: 1px solid rgb(13, 0, 128);
+    }
+    .para span {
+        padding: 10px;
+    }
+    .ant-layout-content.login__layout {
+        padding: 0!important;
+    }
+    .login__right-image {
+        position: unset !important;
+        height: 0;
+        min-height: 0!important;
+        max-height: 0;
+    }
+}
+
+.flex-space {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.App-label {
+    color: rgba(45, 63, 94, 0.5);
+}
